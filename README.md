@@ -1,5 +1,8 @@
 # Don't Touch My Luffy
 
+![2](https://user-images.githubusercontent.com/118302022/218297118-1a4338cb-7e65-485d-b151-faf56e15f732.jpg)
+
+
 Big problem! Luffy fans are trying to steal your luffy. It's up to you to see how long
 you can defend your precious luffy.
 
@@ -15,6 +18,7 @@ Problem has been approached with a thing in mind that ,this game must be User-Fr
 
 
 ## Don’t Touch My Luffy
+![1](https://user-images.githubusercontent.com/118302022/218297094-18418945-c607-46dc-b242-0bdc92c0b222.jpg)
 
 
 This project has been made from an idea similar to the game Flappy Bird.
@@ -25,15 +29,19 @@ This Endless game even includes official themes from Anime-One Piece for better 
 This Project Concludes with a game for Android devices and has been made using Pygame.
 
 
-This [game was made in a day for Technex-23] With Python and Pygame.
-![2](https://user-images.githubusercontent.com/118302022/217979227-14bf7c8f-3b2a-4895-8cbf-7f764033424b.jpg)
+This [game was made in a day for hackathon] With Python and Pygame.
 
 
 ## How to Play
 
 * Use the arrow keys to control your hands.
 
-![1](https://user-images.githubusercontent.com/118302022/217979378-0aab43ec-0172-46bf-9c23-874de14cf106.jpg)
+![1](https://user-images.githubusercontent.com/118302022/218297094-18418945-c607-46dc-b242-0bdc92c0b222.jpg)
+
+## Other images :
+![5](https://user-images.githubusercontent.com/118302022/218297188-510cb6d3-58d0-465d-8686-365ac4b540be.jpg)
+![3](https://user-images.githubusercontent.com/118302022/218297195-c1cb8fad-95f0-4574-813f-a352e0cb8577.jpg)
+
 
 
 ## Installation
