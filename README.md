@@ -6,6 +6,10 @@
 Big problem! Luffy fans are trying to steal your luffy. It's up to you to see how long
 you can defend your precious luffy.
 
+## This Project has been built at Hack Brewer😉😉✌
+### [Devfolio Project link](https://devfolio.co/projects/dont-touch-my-luffy-af84)
+
+
 ## Problem Statement:
 
 The Project has been made solely using Pygame library from Python Language.
@@ -24,9 +28,9 @@ Problem has been approached with a thing in mind that ,this game must be User-Fr
 This project has been made from an idea similar to the game Flappy Bird.
 The goal is to get past the obstacles without getting distracted by surrounding objects which always change. If your gift touches an obstacle you lose. In this game, the objective is to pass through all the obstacles and not hit the obstacles.
 
-This Endless game even includes official themes from Anime-One Piece for better user experience.
+* This Endless game even includes official themes from Anime-One Piece for better user experience.
 
-This Project Concludes with a game for Android devices and has been made using Pygame.
+* This Project Concludes with a game for Android devices and has been made using Pygame.
 
 
 This [game was made in a day for hackathon] With Python and Pygame.
@@ -72,5 +76,4 @@ pip3 install pygame
 * Includes even other basic sounds in .wav format.
 
 
-* Hope u liked this Game.
-*** Thank You ***
+# *** Thank You ***
